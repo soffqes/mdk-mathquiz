@@ -1,0 +1,11 @@
+C:\MathQuizStarovoytova\MathQuizStarovoytova\bin\Debug\MathQuizStarovoytova.exe.config
+C:\MathQuizStarovoytova\MathQuizStarovoytova\bin\Debug\MathQuizStarovoytova.exe
+C:\MathQuizStarovoytova\MathQuizStarovoytova\bin\Debug\MathQuizStarovoytova.pdb
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.csproj.AssemblyReference.cache
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.csproj.SuggestedBindingRedirects.cache
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.Form1.resources
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.Properties.Resources.resources
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.csproj.GenerateResource.cache
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.csproj.CoreCompileInputs.cache
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.exe
+C:\MathQuizStarovoytova\MathQuizStarovoytova\obj\Debug\MathQuizStarovoytova.pdb
